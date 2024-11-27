@@ -1,0 +1,295 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f4f7;
+    height: 100vh;
+    overflow: hidden;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #ffffff;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+button:disabled {
+    background-color: #95a5a6;
+    cursor: not-allowed;
+}
+
+/* Start Screen and Completion Screen */
+#start-screen, #completion-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+#start-screen label, #completion-screen p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Score Board */
+#score-board {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+/* Game Container */
+.game-container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+/* Terms Container (Left Pane) */
+#terms-container {
+    width: 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-right: 2px solid #bdc3c7;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#terms-container h2 {
+    margin-bottom: 10px;
+}
+
+#terms-area {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+/* Term Items */
+.term-item {
+    background-color: #3498db;
+    color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: grab;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s;
+    width: calc(50% - 20px); /* Two columns */
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.term-item:active {
+    cursor: grabbing;
+    transform: scale(0.95);
+}
+
+.term-item.correct {
+    background-color: #2ecc71;
+    cursor: default;
+    opacity: 0;
+    transition: opacity 0.5s ease-out;
+}
+
+.term-item.incorrect {
+    background-color: #e74c3c;
+    transform: rotate(-5deg);
+}
+
+.term-item.incorrect::after {
+    content: "✖";
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-size: 18px;
+}
+
+/* Definitions Container (Right Pane) */
+#definitions-container {
+    width: 66.67%;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+#definitions-container h2 {
+    margin-bottom: 10px;
+}
+
+#definitions-area {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+    padding: 10px 0;
+}
+
+/* Definition Tiles */
+.definition-tile {
+    background-color: #ffffff;
+    border: 2px solid #3498db;
+    border-radius: 12px;
+    width: 100%;
+    min-height: 80px;
+    padding: 10px;
+    box-sizing: border-box;
+    position: relative;
+    transition: background-color 0.3s, border-color 0.3s, transform 0.3s;
+    cursor: pointer;
+}
+
+.definition-tile.correct {
+    background-color: #2ecc71;
+    border-color: #27ae60;
+    cursor: default;
+    transform: scale(1.02);
+}
+
+.definition-tile.incorrect {
+    background-color: #e74c3c;
+    border-color: #c0392b;
+    transform: rotate(2deg);
+}
+
+.definition-tile.incorrect::after {
+    content: "✖";
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-size: 18px;
+}
+
+.definition-tile.matched {
+    background-color: #dfe6e9;
+    border-color: #b2bec3;
+    pointer-events: none;
+}
+
+.definition-tile .definition-text {
+    font-size: 16px;
+    color: #2c3e50;
+}
+
+.definition-tile.matched .definition-text {
+    font-weight: bold;
+}
+
+/* Completion Screen */
+#completion-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#completion-screen h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#completion-screen p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+#completion-screen button {
+    margin: 10px;
+    width: 150px;
+}
+
+/* Scrollbar Styling */
+#terms-container::-webkit-scrollbar,
+#definitions-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+#terms-container::-webkit-scrollbar-track,
+#definitions-container::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+#terms-container::-webkit-scrollbar-thumb,
+#definitions-container::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 4px;
+}
+
+#terms-container::-webkit-scrollbar-thumb:hover,
+#definitions-container::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .game-container {
+        flex-direction: column;
+    }
+    
+    #terms-container, #definitions-container {
+        width: 100%;
+        border: none;
+    }
+    
+    #definitions-container {
+        height: 60%;
+    }
+    
+    .definition-tile {
+        min-width: 200px;
+    }
+}
+
+@media (max-width: 768px) {
+    .term-item {
+        font-size: 14px;
+        padding: 8px 16px;
+        width: calc(50% - 20px); /* Two columns */
+    }
+    
+    .definition-tile {
+        font-size: 14px;
+        min-height: 70px;
+    }
+}
+
+@media (max-width: 600px) {
+    #score-board {
+        position: static;
+        margin-bottom: 20px;
+    }
+
+    #definitions-container {
+        height: 50%;
+    }
+
+    .game-container {
+        padding: 10px;
+    }
+
+    #definitions-area {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+}

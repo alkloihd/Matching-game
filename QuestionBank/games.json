@@ -1,0 +1,36 @@
+{
+    "games": [
+        {
+            "title": "Grade 5 Human Body Terms",
+            "file": "grade5humanbody.json"
+        },
+        {
+            "title": "Grade 5 Forces and Mechanisms Terms",
+            "file": "grade5forces.json"
+        },
+        {
+            "title": "Grade 5 Matter and Energy Terms",
+            "file": "grade5matter.json"
+        },
+        {
+            "title": "Grade 5 Energy Conservation Terms",
+            "file": "grade5energy.json"
+        },
+        {
+            "title": "Grade 6 Biodiversity Terms",
+            "file": "grade6biodiversity.json"
+        },
+        {
+            "title": "Grade 6 Flight Terms",
+            "file": "grade6flight.json"
+        },
+        {
+            "title": "Grade 6 Electricity and Electrical Devices Terms",
+            "file": "grade6electricity.json"
+        },
+        {
+            "title": "Grade 6 Space Terms",
+            "file": "grade6space.json"
+        }
+    ]
+}

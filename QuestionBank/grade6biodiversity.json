@@ -1,0 +1,130 @@
+{
+    "title": "Grade 6 Biodiversity Terms",
+    "questions": [
+        {
+            "id": "1",
+            "word": "Biodiversity",
+            "definition": "The variety of living organisms found within a specific region, including plants, animals, and microorganisms."
+        },
+        {
+            "id": "2",
+            "word": "Species",
+            "definition": "A group of organisms that can reproduce with one another and produce fertile offspring."
+        },
+        {
+            "id": "3",
+            "word": "Ecosystem",
+            "definition": "A community of living organisms interacting with each other and with their non-living environment, such as soil and water."
+        },
+        {
+            "id": "4",
+            "word": "Habitat",
+            "definition": "The natural environment where an organism lives and grows, providing food, shelter, and resources for survival."
+        },
+        {
+            "id": "5",
+            "word": "Adaptation",
+            "definition": "A characteristic or trait that helps an organism survive and reproduce in its environment."
+        },
+        {
+            "id": "6",
+            "word": "Niche",
+            "definition": "The role or function of an organism within its ecosystem, including how it obtains resources and interacts with other species."
+        },
+        {
+            "id": "7",
+            "word": "Invasive Species",
+            "definition": "A non-native organism introduced to an area that disrupts local ecosystems and outcompetes native species for resources."
+        },
+        {
+            "id": "8",
+            "word": "Endangered Species",
+            "definition": "A species at serious risk of extinction due to habitat loss, environmental changes, or human activities."
+        },
+        {
+            "id": "9",
+            "word": "Extinct",
+            "definition": "Describes a species that no longer exists anywhere on Earth."
+        },
+        {
+            "id": "10",
+            "word": "Food Web",
+            "definition": "A network of interconnected food chains in an ecosystem, showing how energy is transferred between organisms."
+        },
+        {
+            "id": "11",
+            "word": "Producer",
+            "definition": "An organism that produces its own food using sunlight or chemical energy, typically plants or algae."
+        },
+        {
+            "id": "12",
+            "word": "Consumer",
+            "definition": "An organism that obtains energy by eating other organisms, such as herbivores, carnivores, or omnivores."
+        },
+        {
+            "id": "13",
+            "word": "Decomposer",
+            "definition": "An organism that breaks down dead organic material, recycling nutrients back into the soil."
+        },
+        {
+            "id": "14",
+            "word": "Photosynthesis",
+            "definition": "The process by which plants use sunlight, water, and carbon dioxide to produce food and release oxygen."
+        },
+        {
+            "id": "15",
+            "word": "Pollination",
+            "definition": "The transfer of pollen from the male part of a flower to the female part, enabling fertilization and seed production."
+        },
+        {
+            "id": "16",
+            "word": "Camouflage",
+            "definition": "A feature or coloration that allows an organism to blend in with its surroundings to avoid predators."
+        },
+        {
+            "id": "17",
+            "word": "Natural Selection",
+            "definition": "The process by which organisms better adapted to their environment survive and reproduce more successfully."
+        },
+        {
+            "id": "18",
+            "word": "Symbiosis",
+            "definition": "A long-term interaction between two different species that benefits one or both organisms."
+        },
+        {
+            "id": "19",
+            "word": "Mutualism",
+            "definition": "A type of symbiosis where both species benefit from the relationship."
+        },
+        {
+            "id": "20",
+            "word": "Commensalism",
+            "definition": "A type of symbiosis where one species benefits, and the other is neither helped nor harmed."
+        },
+        {
+            "id": "21",
+            "word": "Parasitism",
+            "definition": "A relationship where one organism benefits at the expense of the other, often causing harm."
+        },
+        {
+            "id": "22",
+            "word": "Keystone Species",
+            "definition": "A species that has a critical role in maintaining the structure of an ecosystem."
+        },
+        {
+            "id": "23",
+            "word": "Abiotic Factor",
+            "definition": "A non-living part of an ecosystem, such as sunlight, temperature, or water."
+        },
+        {
+            "id": "24",
+            "word": "Biotic Factor",
+            "definition": "A living component of an ecosystem, such as plants, animals, or bacteria."
+        },
+        {
+            "id": "25",
+            "word": "Ecosystem Services",
+            "definition": "The benefits humans receive from ecosystems, like clean air, water, and pollination of crops."
+        }
+    ]
+}

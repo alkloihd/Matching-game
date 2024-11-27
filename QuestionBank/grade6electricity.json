@@ -1,0 +1,130 @@
+{
+    "title": "Grade 6 Electricity and Electrical Devices Terms",
+    "questions": [
+        {
+            "id": "1",
+            "word": "Electricity",
+            "definition": "A form of energy resulting from the movement of charged particles through a conductor."
+        },
+        {
+            "id": "2",
+            "word": "Circuit",
+            "definition": "A complete path that allows electric current to flow."
+        },
+        {
+            "id": "3",
+            "word": "Conductor",
+            "definition": "A material that allows electric current to flow easily through it, often metals."
+        },
+        {
+            "id": "4",
+            "word": "Insulator",
+            "definition": "A material that resists the flow of electric current, often used to protect wires."
+        },
+        {
+            "id": "5",
+            "word": "Voltage",
+            "definition": "The force that pushes electric charges through a circuit."
+        },
+        {
+            "id": "6",
+            "word": "Current",
+            "definition": "The flow of electric charge through a circuit, measured in amperes."
+        },
+        {
+            "id": "7",
+            "word": "Resistance",
+            "definition": "The opposition to the flow of electric current, which affects how much energy is lost as heat."
+        },
+        {
+            "id": "8",
+            "word": "Battery",
+            "definition": "A device that stores chemical energy and converts it into electrical energy to power circuits."
+        },
+        {
+            "id": "9",
+            "word": "Series Circuit",
+            "definition": "A circuit where components are connected in a single path, so the same current flows through all parts."
+        },
+        {
+            "id": "10",
+            "word": "Parallel Circuit",
+            "definition": "A circuit where components are connected in multiple paths, allowing current to flow through more than one route."
+        },
+        {
+            "id": "11",
+            "word": "Switch",
+            "definition": "A device that can open or close a circuit, controlling the flow of electricity."
+        },
+        {
+            "id": "12",
+            "word": "Static Electricity",
+            "definition": "A buildup of electric charge on the surface of an object, often caused by friction."
+        },
+        {
+            "id": "13",
+            "word": "Electromagnet",
+            "definition": "A temporary magnet created by passing electric current through a coil of wire wrapped around a core."
+        },
+        {
+            "id": "14",
+            "word": "Fuse",
+            "definition": "A safety device that breaks the circuit if the current becomes too high."
+        },
+        {
+            "id": "15",
+            "word": "Generator",
+            "definition": "A device that converts mechanical energy into electrical energy."
+        },
+        {
+            "id": "16",
+            "word": "Transformer",
+            "definition": "A device that changes the voltage of an electric current, either increasing or decreasing it."
+        },
+        {
+            "id": "17",
+            "word": "Conservation of Energy",
+            "definition": "A principle stating that energy cannot be created or destroyed, only transformed from one form to another."
+        },
+        {
+            "id": "18",
+            "word": "Capacitor",
+            "definition": "A device that stores electrical energy temporarily in a circuit."
+        },
+        {
+            "id": "19",
+            "word": "Electric Motor",
+            "definition": "A device that converts electrical energy into mechanical energy to create motion."
+        },
+        {
+            "id": "20",
+            "word": "Renewable Energy",
+            "definition": "Energy that comes from sources that are naturally replenished, like sunlight or wind."
+        },
+        {
+            "id": "21",
+            "word": "Non-renewable Energy",
+            "definition": "Energy that comes from sources that cannot be replenished, like fossil fuels."
+        },
+        {
+            "id": "22",
+            "word": "Conductivity",
+            "definition": "The ability of a material to allow electric current to pass through it."
+        },
+        {
+            "id": "23",
+            "word": "Electrolysis",
+            "definition": "The process of using electric current to drive a chemical reaction."
+        },
+        {
+            "id": "24",
+            "word": "Photovoltaic Cell",
+            "definition": "A device that converts sunlight directly into electricity."
+        },
+        {
+            "id": "25",
+            "word": "Short Circuit",
+            "definition": "A fault in a circuit that allows current to flow along an unintended path, often causing overheating."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "title": "Grade 5 Forces and Mechanisms Terms Set 2",
+    "questions": [
+        {
+            "id": "1",
+            "word": "Simple Machine",
+            "definition": "A basic mechanical device that makes work easier by changing the direction or magnitude of a force. Example: A lever or an inclined plane."
+        },
+        {
+            "id": "2",
+            "word": "Wheel and Axle",
+            "definition": "A simple machine where a wheel is attached to a central rod, allowing easier movement of objects. Example: A rolling cart uses this system."
+        },
+        {
+            "id": "3",
+            "word": "Wedge",
+            "definition": "A triangular tool used to split, cut, or lift objects. Example: An axe blade is a wedge."
+        },
+        {
+            "id": "4",
+            "word": "Screw",
+            "definition": "A simple machine consisting of a twisted inclined plane wrapped around a cylinder. Example: A jar lid uses this mechanism."
+        },
+        {
+            "id": "5",
+            "word": "Lever Arm",
+            "definition": "The part of a lever that extends from the fulcrum to where the force is applied. Example: The long handle of a crowbar."
+        },
+        {
+            "id": "6",
+            "word": "Mechanical Advantage",
+            "definition": "The ratio of output force to input force in a mechanical system. Example: A pulley system can provide a high mechanical advantage."
+        },
+        {
+            "id": "7",
+            "word": "Fulcrum",
+            "definition": "The fixed point on which a lever pivots. Example: The center of a seesaw acts as its fulcrum."
+        },
+        {
+            "id": "8",
+            "word": "Load",
+            "definition": "The object or weight that a machine is designed to move or support. Example: The weight placed on a pulley."
+        },
+        {
+            "id": "9",
+            "word": "Effort Force",
+            "definition": "The force applied to a simple machine to do work. Example: The force you use to push a wheelbarrow."
+        },
+        {
+            "id": "10",
+            "word": "Output Force",
+            "definition": "The force exerted by a machine to move a load. Example: The force a car jack uses to lift a vehicle."
+        },
+        {
+            "id": "11",
+            "word": "Elastic Potential Energy",
+            "definition": "The energy stored in an object when it is stretched or compressed. Example: A stretched rubber band."
+        },
+        {
+            "id": "12",
+            "word": "Friction",
+            "definition": "The force that resists motion when two surfaces are in contact. Example: Friction between your shoes and the ground prevents slipping."
+        },
+        {
+            "id": "13",
+            "word": "Air Resistance",
+            "definition": "The force that opposes the motion of objects moving through air. Example: A parachute uses air resistance to slow descent."
+        },
+        {
+            "id": "14",
+            "word": "Structural Stability",
+            "definition": "The ability of a structure to remain balanced and resist tipping or collapsing. Example: A triangle is often used in bridges for stability."
+        },
+        {
+            "id": "15",
+            "word": "Balanced Force",
+            "definition": "When two forces acting on an object are equal in size but opposite in direction. Example: A book resting on a table experiences balanced forces."
+        },
+        {
+            "id": "16",
+            "word": "Unbalanced Force",
+            "definition": "When forces acting on an object are not equal, causing the object to move or change direction. Example: Pushing a chair across a room."
+        },
+        {
+            "id": "17",
+            "word": "Center of Gravity",
+            "definition": "The point where an object's mass is evenly distributed in all directions. Example: Balancing a ruler on your finger shows its center of gravity."
+        },
+        {
+            "id": "18",
+            "word": "Structural Load",
+            "definition": "The forces or weights that a structure must support. Example: A bridge holds both its own weight and the cars traveling on it."
+        },
+        {
+            "id": "19",
+            "word": "Beam",
+            "definition": "A long, rigid structural element that supports loads. Example: Steel beams are used in building skyscrapers."
+        },
+        {
+            "id": "20",
+            "word": "Tensile Strength",
+            "definition": "The resistance of a material to being stretched or pulled apart. Example: A steel cable has high tensile strength."
+        },
+        {
+            "id": "21",
+            "word": "Compression Force",
+            "definition": "A force that squeezes or presses an object. Example: The pressure on a chair leg when someone sits on it."
+        },
+        {
+            "id": "22",
+            "word": "Shear Force",
+            "definition": "A force that causes parts of a material to slide past one another in opposite directions. Example: Scissors create shear force when cutting paper."
+        },
+        {
+            "id": "23",
+            "word": "Stress",
+            "definition": "The internal force per unit area within a material, caused by external forces. Example: Stress on a bridge increases during heavy traffic."
+        },
+        {
+            "id": "24",
+            "word": "Deformation",
+            "definition": "A change in the shape of an object due to stress. Example: A bent metal rod under extreme force."
+        },
+        {
+            "id": "25",
+            "word": "Load Path",
+            "definition": "The route through which loads are transferred in a structure. Example: In a skyscraper, loads travel down columns to the foundation."
+        }
+    ]
+}

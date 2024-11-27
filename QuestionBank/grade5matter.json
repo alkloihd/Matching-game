@@ -1,0 +1,130 @@
+{
+    "title": "Grade 5 Matter and Energy Terms",
+    "questions": [
+        {
+            "id": "1",
+            "word": "Matter",
+            "definition": "Anything that has mass and takes up space."
+        },
+        {
+            "id": "2",
+            "word": "Atom",
+            "definition": "The smallest unit of matter that retains the properties of an element."
+        },
+        {
+            "id": "3",
+            "word": "Molecule",
+            "definition": "Two or more atoms bonded together."
+        },
+        {
+            "id": "4",
+            "word": "Solid",
+            "definition": "A state of matter with a definite shape and volume."
+        },
+        {
+            "id": "5",
+            "word": "Liquid",
+            "definition": "A state of matter with a definite volume but no definite shape, taking the shape of its container."
+        },
+        {
+            "id": "6",
+            "word": "Gas",
+            "definition": "A state of matter with no definite shape or volume, expanding to fill any container."
+        },
+        {
+            "id": "7",
+            "word": "Physical Change",
+            "definition": "A change that affects the form of a substance but does not change its identity. Example: Ice melting into water."
+        },
+        {
+            "id": "8",
+            "word": "Chemical Change",
+            "definition": "A change that creates a new substance with different properties. Example: Burning wood produces ash and smoke."
+        },
+        {
+            "id": "9",
+            "word": "Evaporation",
+            "definition": "The process of a liquid turning into a gas."
+        },
+        {
+            "id": "10",
+            "word": "Condensation",
+            "definition": "The process of a gas turning into a liquid. Example: Water droplets forming on a cold glass."
+        },
+        {
+            "id": "11",
+            "word": "Melting",
+            "definition": "The process of a solid turning into a liquid."
+        },
+        {
+            "id": "12",
+            "word": "Freezing",
+            "definition": "The process of a liquid turning into a solid."
+        },
+        {
+            "id": "13",
+            "word": "Density",
+            "definition": "The amount of mass in a given volume of a substance."
+        },
+        {
+            "id": "14",
+            "word": "Volume",
+            "definition": "The amount of space an object or substance occupies."
+        },
+        {
+            "id": "15",
+            "word": "Mass",
+            "definition": "The amount of matter in an object, typically measured in grams or kilograms."
+        },
+        {
+            "id": "16",
+            "word": "Solubility",
+            "definition": "The ability of a substance to dissolve in a liquid."
+        },
+        {
+            "id": "17",
+            "word": "Solution",
+            "definition": "A mixture where one substance is evenly distributed in another. Example: Salt dissolved in water."
+        },
+        {
+            "id": "18",
+            "word": "Solvent",
+            "definition": "The substance in which another substance is dissolved. Example: Water is a common solvent."
+        },
+        {
+            "id": "19",
+            "word": "Solute",
+            "definition": "The substance that is dissolved in a solution. Example: Sugar is a solute in tea."
+        },
+        {
+            "id": "20",
+            "word": "Boiling Point",
+            "definition": "The temperature at which a liquid turns into a gas."
+        },
+        {
+            "id": "21",
+            "word": "Melting Point",
+            "definition": "The temperature at which a solid turns into a liquid."
+        },
+        {
+            "id": "22",
+            "word": "State of Matter",
+            "definition": "The physical form of a substance, such as solid, liquid, or gas."
+        },
+        {
+            "id": "23",
+            "word": "Conductor",
+            "definition": "A material that allows heat or electricity to flow easily. Example: Metals are good conductors."
+        },
+        {
+            "id": "24",
+            "word": "Insulator",
+            "definition": "A material that resists the flow of heat or electricity. Example: Rubber is a good insulator."
+        },
+        {
+            "id": "25",
+            "word": "Periodic Table",
+            "definition": "A chart of all known elements arranged by their properties."
+        }
+    ]
+}

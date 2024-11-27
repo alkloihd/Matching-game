@@ -1,0 +1,130 @@
+{
+    "title": "Grade 6 Flight Terms",
+    "questions": [
+        {
+            "id": "1",
+            "word": "Flight",
+            "definition": "The ability of an object to move through the air and remain airborne."
+        },
+        {
+            "id": "2",
+            "word": "Lift",
+            "definition": "An upward force that counteracts the weight of an object, allowing it to rise."
+        },
+        {
+            "id": "3",
+            "word": "Drag",
+            "definition": "A force that resists an object's motion through air, acting opposite to the direction of movement."
+        },
+        {
+            "id": "4",
+            "word": "Thrust",
+            "definition": "The force that propels an object forward through the air."
+        },
+        {
+            "id": "5",
+            "word": "Gravity",
+            "definition": "The force that pulls objects toward the Earth, opposing lift in flight."
+        },
+        {
+            "id": "6",
+            "word": "Aerodynamics",
+            "definition": "The study of how air moves around objects, such as airplanes or birds."
+        },
+        {
+            "id": "7",
+            "word": "Airfoil",
+            "definition": "A specially designed shape of a wing or blade that creates lift by affecting air pressure."
+        },
+        {
+            "id": "8",
+            "word": "Yaw",
+            "definition": "The side-to-side movement of an object around its vertical axis, used to change direction in flight."
+        },
+        {
+            "id": "9",
+            "word": "Pitch",
+            "definition": "The up or down tilting motion of an object around its horizontal axis."
+        },
+        {
+            "id": "10",
+            "word": "Roll",
+            "definition": "The rotation of an object around its longitudinal axis, tilting it side to side."
+        },
+        {
+            "id": "11",
+            "word": "Stability",
+            "definition": "The ability of an object in flight to maintain balance and resist unwanted movements."
+        },
+        {
+            "id": "12",
+            "word": "Wing",
+            "definition": "A surface designed to generate lift and enable flight."
+        },
+        {
+            "id": "13",
+            "word": "Fuselage",
+            "definition": "The main body of an aircraft, housing passengers, cargo, and controls."
+        },
+        {
+            "id": "14",
+            "word": "Propeller",
+            "definition": "A rotating blade that generates thrust to move an aircraft forward."
+        },
+        {
+            "id": "15",
+            "word": "Jet Engine",
+            "definition": "A type of engine that uses high-speed exhaust gases to produce thrust."
+        },
+        {
+            "id": "16",
+            "word": "Altitude",
+            "definition": "The height of an object above the Earth's surface."
+        },
+        {
+            "id": "17",
+            "word": "Turbulence",
+            "definition": "Irregular or chaotic motion in the air that affects smooth flight."
+        },
+        {
+            "id": "18",
+            "word": "Winglet",
+            "definition": "A small vertical extension at the tips of a wing to reduce drag and improve efficiency."
+        },
+        {
+            "id": "19",
+            "word": "Center of Gravity",
+            "definition": "The point where an object's weight is evenly distributed, crucial for stability in flight."
+        },
+        {
+            "id": "20",
+            "word": "Bernoulli's Principle",
+            "definition": "A scientific concept explaining how faster-moving air creates lower pressure, aiding in lift generation."
+        },
+        {
+            "id": "21",
+            "word": "Aileron",
+            "definition": "A hinged surface on a wing used to control roll and direction during flight."
+        },
+        {
+            "id": "22",
+            "word": "Elevator",
+            "definition": "A control surface on the tail of an aircraft that adjusts pitch."
+        },
+        {
+            "id": "23",
+            "word": "Rudder",
+            "definition": "A vertical control surface on the tail that helps control yaw."
+        },
+        {
+            "id": "24",
+            "word": "Lift-to-Drag Ratio",
+            "definition": "A measure of an object's aerodynamic efficiency, comparing lift generated to drag experienced."
+        },
+        {
+            "id": "25",
+            "word": "Glider",
+            "definition": "An aircraft that flies without an engine, relying on air currents and lift."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "title": "Grade 6 Space Terms",
+    "questions": [
+        {
+            "id": "1",
+            "word": "Solar System",
+            "definition": "A group of planets, moons, and other celestial objects that orbit a central star."
+        },
+        {
+            "id": "2",
+            "word": "Planet",
+            "definition": "A large, round celestial object that orbits a star and has cleared its orbit of debris."
+        },
+        {
+            "id": "3",
+            "word": "Star",
+            "definition": "A massive sphere of hot gases that emits light and energy due to nuclear fusion."
+        },
+        {
+            "id": "4",
+            "word": "Galaxy",
+            "definition": "A vast collection of stars, gas, dust, and dark matter held together by gravity."
+        },
+        {
+            "id": "5",
+            "word": "Orbit",
+            "definition": "The curved path an object follows as it moves around another object in space due to gravity."
+        },
+        {
+            "id": "6",
+            "word": "Satellite",
+            "definition": "An object that orbits a planet or star, which can be natural or human-made."
+        },
+        {
+            "id": "7",
+            "word": "Asteroid",
+            "definition": "A small rocky object that orbits the Sun, mostly found in a belt between Mars and Jupiter."
+        },
+        {
+            "id": "8",
+            "word": "Comet",
+            "definition": "A celestial object made of ice and dust that develops a glowing tail when near the Sun."
+        },
+        {
+            "id": "9",
+            "word": "Meteor",
+            "definition": "A streak of light produced when a small space rock burns up in Earth's atmosphere."
+        },
+        {
+            "id": "10",
+            "word": "Black Hole",
+            "definition": "A region in space with such strong gravity that not even light can escape."
+        },
+        {
+            "id": "11",
+            "word": "Nebula",
+            "definition": "A massive cloud of gas and dust in space where stars can form."
+        },
+        {
+            "id": "12",
+            "word": "Light Year",
+            "definition": "The distance light travels in one year, about 9.46 trillion kilometers."
+        },
+        {
+            "id": "13",
+            "word": "Big Bang Theory",
+            "definition": "The leading explanation for the origin of the universe, stating it began from a very hot, dense state."
+        },
+        {
+            "id": "14",
+            "word": "Exoplanet",
+            "definition": "A planet that orbits a star outside of our solar system."
+        },
+        {
+            "id": "15",
+            "word": "Astronomy",
+            "definition": "The scientific study of celestial objects, space, and the universe as a whole."
+        },
+        {
+            "id": "16",
+            "word": "Space Probe",
+            "definition": "A robotic spacecraft that gathers data from space and sends it back to Earth."
+        },
+        {
+            "id": "17",
+            "word": "Gravity",
+            "definition": "A natural force of attraction that pulls objects toward one another, giving them weight."
+        },
+        {
+            "id": "18",
+            "word": "Space Shuttle",
+            "definition": "A reusable spacecraft used to transport astronauts and cargo to and from space."
+        },
+        {
+            "id": "19",
+            "word": "Astronaut",
+            "definition": "A person trained to travel and work in space."
+        },
+        {
+            "id": "20",
+            "word": "Rocket",
+            "definition": "A vehicle designed to propel itself into space using powerful engines."
+        },
+        {
+            "id": "21",
+            "word": "Hubble Space Telescope",
+            "definition": "A large telescope in Earth's orbit that captures detailed images of space."
+        },
+        {
+            "id": "22",
+            "word": "Red Giant",
+            "definition": "A late stage in a star's life when it expands and cools after running out of hydrogen fuel."
+        },
+        {
+            "id": "23",
+            "word": "Supernova",
+            "definition": "A massive explosion that occurs when a large star reaches the end of its life."
+        },
+        {
+            "id": "24",
+            "word": "Pulsar",
+            "definition": "A rapidly rotating neutron star that emits beams of radiation."
+        },
+        {
+            "id": "25",
+            "word": "Dark Matter",
+            "definition": "A mysterious substance that does not emit light but exerts gravitational effects in the universe."
+        }
+    ]
+}

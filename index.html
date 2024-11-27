@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Matching Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Start Screen -->
+    <div id="start-screen">
+        <h1>Welcome to the Matching Game</h1>
+        <label for="game-select">Select Game:</label>
+        <select id="game-select">
+            <!-- Options will be populated dynamically -->
+        </select>
+        <br><br>
+        <button id="start-button">Start Game</button>
+    </div>
+    
+    <!-- Game Screen -->
+    <div id="game-screen" style="display: none;">
+        <div id="score-board">
+            Score: <span id="score">0</span>
+        </div>
+        <div class="game-container">
+            <!-- Terms Area (Left Pane) -->
+            <div id="terms-container">
+                <h2>Terms</h2>
+                <div id="terms-area">
+                    <!-- Draggable terms will be populated here -->
+                </div>
+            </div>
+            
+            <!-- Definitions Area (Right Pane) -->
+            <div id="definitions-container">
+                <h2>Definitions</h2>
+                <div id="definitions-area">
+                    <!-- Definition tiles will be populated here -->
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Completion Screen -->
+    <div id="completion-screen" style="display: none;">
+        <h2 id="completion-message"></h2>
+        <p>Your Score: <span id="final-score"></span></p>
+        <button id="try-again-button">Try Again</button>
+        <button id="back-home-button">Back to Home</button>
+    </div>
+    
+    <script src="matchinggame.js"></script>
+</body>
+</html>

@@ -33,24 +33,24 @@
             "file": "grade6space.json"
         },
         {
-            "title": "Grade 5 Number Sense",
+            "title": "Grade 5 Math Number Sense",
             "file": "grade5mathnumbersense.json"
         },
         {
-            "title": "Grade 5 Measurement Terms",
+            "title": "Grade 5 Math Measurement Terms",
             "file": "grade5mathmeasurement.json"
         },
         {
-            "title": "Grade 5 Geometry and Spatial Sense Terms",
+            "title": "Grade 5 Math Geometry and Spatial",
             "file": "grade5mathgeometry.json"
         },
         {
-            "title": "Grade 5 Patterning and Algebra Terms",
+            "title": "Grade 5 Math Patterning and Algebra",
             "file": "grade5mathpatterns.json"
         },
         {
-            "title": "Grade 5 Data Management and Probability Terms",
-            "file": "grade5mathdatamanagement.json"
+            "title": "Grade 5 Math Data Management and Probability",
+            "file": "grade5mathdata.json"
         }
     ]
 }

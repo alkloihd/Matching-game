@@ -1,0 +1,110 @@
+{
+    "title": "Grade 5 Math Data Management and Probability",
+    "questions": [
+        {
+            "id": "1",
+            "word": "Bar Graph",
+            "definition": "A chart that uses rectangular bars to represent data values."
+        },
+        {
+            "id": "2",
+            "word": "Line Graph",
+            "definition": "A graph that uses points connected by lines to show how something changes over time."
+        },
+        {
+            "id": "3",
+            "word": "Pie Chart",
+            "definition": "A circular chart divided into sectors, each representing a proportion of the whole."
+        },
+        {
+            "id": "4",
+            "word": "Mean",
+            "definition": "The average of a set of numbers, found by dividing the sum of the numbers by the count of numbers."
+        },
+        {
+            "id": "5",
+            "word": "Median",
+            "definition": "The middle value in a set of numbers arranged in ascending or descending order."
+        },
+        {
+            "id": "6",
+            "word": "Mode",
+            "definition": "The number that appears most frequently in a data set."
+        },
+        {
+            "id": "7",
+            "word": "Range",
+            "definition": "The difference between the highest and lowest values in a data set."
+        },
+        {
+            "id": "8",
+            "word": "Probability",
+            "definition": "The likelihood or chance of an event occurring, expressed as a fraction, decimal, or percentage."
+        },
+        {
+            "id": "9",
+            "word": "Certain",
+            "definition": "An event that will definitely happen; probability of 1 or 100%."
+        },
+        {
+            "id": "10",
+            "word": "Impossible",
+            "definition": "An event that cannot happen; probability of 0 or 0%."
+        },
+        {
+            "id": "11",
+            "word": "Likely",
+            "definition": "An event that has a high chance of occurring but is not certain."
+        },
+        {
+            "id": "12",
+            "word": "Unlikely",
+            "definition": "An event that has a low chance of occurring but is not impossible."
+        },
+        {
+            "id": "13",
+            "word": "Outcome",
+            "definition": "A possible result of a probability experiment."
+        },
+        {
+            "id": "14",
+            "word": "Event",
+            "definition": "A set of one or more outcomes in a probability experiment."
+        },
+        {
+            "id": "15",
+            "word": "Sample Space",
+            "definition": "The set of all possible outcomes in a probability experiment."
+        },
+        {
+            "id": "16",
+            "word": "Tally Chart",
+            "definition": "A table that uses tally marks to record frequencies."
+        },
+        {
+            "id": "17",
+            "word": "Frequency Table",
+            "definition": "A table that lists items and shows the number of times they occur."
+        },
+        {
+            "id": "18",
+            "word": "Survey",
+            "definition": "A method of collecting data by asking people questions."
+        },
+        {
+            "id": "19",
+            "word": "Histogram",
+            "definition": "A bar graph that shows the frequency of data within equal intervals."
+        },
+        {
+            "id": "20",
+            "word": "Pictograph",
+            "definition": "A graph that uses pictures or symbols to represent data."
+        },
+        {
+            "id": "21",
+            "word": "Broken-Line Graph",
+            "definition": "A graph that uses line segments to show changes in data over time."
+        }
+    ]
+}

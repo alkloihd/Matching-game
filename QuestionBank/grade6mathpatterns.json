@@ -1,0 +1,145 @@
+{
+    "title": "Grade 6 Math Patterning and Algebra",
+    "questions": [
+        {
+            "id": "1",
+            "word": "10, 15, 20",
+            "definition": "A growing pattern where each term increases by 5."
+        },
+        {
+            "id": "2",
+            "word": "100, 90, 80",
+            "definition": "A shrinking pattern where each term decreases by 10."
+        },
+        {
+            "id": "3",
+            "word": "Term Rule",
+            "definition": "A rule that describes how to move from one term to the next in a pattern."
+        },
+        {
+            "id": "4",
+            "word": "Pattern Core",
+            "definition": "The part of a repeating pattern that repeats over and over."
+        },
+        {
+            "id": "5",
+            "word": "4n + 2",
+            "definition": "The rule for a growing pattern where the first term is 6."
+        },
+        {
+            "id": "6",
+            "word": "n - 3",
+            "definition": "The rule for a shrinking pattern where the first term is 7."
+        },
+        {
+            "id": "7",
+            "word": "Input",
+            "definition": "The starting number or value in a table of values."
+        },
+        {
+            "id": "8",
+            "word": "Output",
+            "definition": "The result of applying a pattern rule to an input value."
+        },
+        {
+            "id": "9",
+            "word": "10x",
+            "definition": "An algebraic expression for 10 times a variable x."
+        },
+        {
+            "id": "10",
+            "word": "x + 5",
+            "definition": "An algebraic expression where 5 is added to a variable x."
+        },
+        {
+            "id": "11",
+            "word": "Equation",
+            "definition": "A mathematical statement showing two expressions are equal, such as 2x + 3 = 7."
+        },
+        {
+            "id": "12",
+            "word": "Variable",
+            "definition": "A letter or symbol used to represent an unknown value in an equation."
+        },
+        {
+            "id": "13",
+            "word": "Solve",
+            "definition": "To find the value of a variable that makes an equation true."
+        },
+        {
+            "id": "14",
+            "word": "Inequality",
+            "definition": "A mathematical statement comparing two values, such as x > 5."
+        },
+        {
+            "id": "15",
+            "word": "x = 8",
+            "definition": "The solution to the equation x + 3 = 11."
+        },
+        {
+            "id": "16",
+            "word": "y = 2",
+            "definition": "The solution to the equation 4y = 8."
+        },
+        {
+            "id": "17",
+            "word": "Code",
+            "definition": "A sequence of instructions or statements written to solve a problem computationally."
+        },
+        {
+            "id": "18",
+            "word": "Loop",
+            "definition": "A programming structure that repeats a set of instructions."
+        },
+        {
+            "id": "19",
+            "word": "Conditional",
+            "definition": "A programming statement that runs a set of instructions based on whether a condition is true or false."
+        },
+        {
+            "id": "20",
+            "word": "Algorithm",
+            "definition": "A step-by-step set of instructions for solving a problem."
+        },
+        {
+            "id": "21",
+            "word": "Model",
+            "definition": "A mathematical representation of a real-life situation."
+        },
+        {
+            "id": "22",
+            "word": "Prediction",
+            "definition": "Using a mathematical model to estimate a future value or outcome."
+        },
+        {
+            "id": "23",
+            "word": "Balance",
+            "definition": "To adjust values on both sides of an equation to make them equal."
+        },
+        {
+            "id": "24",
+            "word": "Linear Pattern",
+            "definition": "A pattern that increases or decreases by the same amount each time."
+        },
+        {
+            "id": "25",
+            "word": "Symmetry",
+            "definition": "A balanced arrangement of parts that are the same on both sides of a dividing line."
+        },
+        {
+            "id": "26",
+            "word": "Substitute",
+            "definition": "To replace a variable with a number in an equation or expression."
+        },
+        {
+            "id": "27",
+            "word": "Table of Values",
+            "definition": "A table showing input and output values for a pattern rule."
+        },
+        {
+            "id": "28",
+            "word": "Sequence",
+            "definition": "An ordered list of numbers or terms that follow a specific pattern or rule."
+        }
+    ]
+}

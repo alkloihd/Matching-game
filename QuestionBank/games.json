@@ -31,6 +31,26 @@
         {
             "title": "Grade 6 Space Terms",
             "file": "grade6space.json"
+        },
+        {
+            "title": "Grade 5 Number Sense",
+            "file": "grade5mathnumbersense.json"
+        },
+        {
+            "title": "Grade 5 Measurement Terms",
+            "file": "grade5mathmeasurement.json"
+        },
+        {
+            "title": "Grade 5 Geometry and Spatial Sense Terms",
+            "file": "grade5mathgeometry.json"
+        },
+        {
+            "title": "Grade 5 Patterning and Algebra Terms",
+            "file": "grade5mathpatterns.json"
+        },
+        {
+            "title": "Grade 5 Data Management and Probability Terms",
+            "file": "grade5mathdatamanagement.json"
         }
     ]
 }

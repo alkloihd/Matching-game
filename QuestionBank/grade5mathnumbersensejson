@@ -1,0 +1,125 @@
+{
+    "title": "Grade 5 Math Number Sense",
+    "questions": [
+        {
+            "id": "1",
+            "word": "100 000",
+            "definition": "The largest whole number students are expected to read, write, and compare."
+        },
+        {
+            "id": "2",
+            "word": "67.35",
+            "definition": "A decimal number with 6 in the tens place, 7 in the ones place, 3 in the tenths place, and 5 in the hundredths place."
+        },
+        {
+            "id": "3",
+            "word": "4/3",
+            "definition": "A proper or improper fraction equivalent to 1 1/3 when written as a mixed number."
+        },
+        {
+            "id": "4",
+            "word": "1.25",
+            "definition": "The result of adding 0.75 and 0.5 together."
+        },
+        {
+            "id": "5",
+            "word": "98 765",
+            "definition": "A number with 9 in the ten-thousands place, 8 in the thousands place, 7 in the hundreds place, 6 in the tens place, and 5 in the ones place."
+        },
+        {
+            "id": "6",
+            "word": "Descending",
+            "definition": "The order when numbers are arranged from largest to smallest."
+        },
+        {
+            "id": "7",
+            "word": "3.79",
+            "definition": "The result of counting forward from 3.78 by 0.01."
+        },
+        {
+            "id": "8",
+            "word": "5.24",
+            "definition": "The result of counting backward from 5.25 by 0.01."
+        },
+        {
+            "id": "9",
+            "word": "12",
+            "definition": "The product of 4 and 3."
+        },
+        {
+            "id": "10",
+            "word": "54",
+            "definition": "The quotient when 108 is divided by 2."
+        },
+        {
+            "id": "11",
+            "word": "7.81",
+            "definition": "The sum of 3.12 and 4.69."
+        },
+        {
+            "id": "12",
+            "word": "2.34",
+            "definition": "The difference between 6.45 and 4.11."
+        },
+        {
+            "id": "13",
+            "word": "Rate",
+            "definition": "A ratio comparing two quantities with different units, such as speed (km/h)."
+        },
+        {
+            "id": "14",
+            "word": "12 apples",
+            "definition": "The quantity of apples in 4 baskets if each basket contains 3 apples."
+        },
+        {
+            "id": "15",
+            "word": "15 km",
+            "definition": "The distance covered in 3 hours at a rate of 5 km/h."
+        },
+        {
+            "id": "16",
+            "word": "Equivalent",
+            "definition": "Fractions like 2/4 and 1/2 that represent the same value."
+        },
+        {
+            "id": "17",
+            "word": "Mixed Number",
+            "definition": "A whole number and a fraction combined, such as 2 3/4."
+        },
+        {
+            "id": "18",
+            "word": "Improper",
+            "definition": "A type of fraction where the numerator is larger than the denominator."
+        },
+        {
+            "id": "19",
+            "word": "Hundredths",
+            "definition": "The place value position two places to the right of the decimal."
+        },
+        {
+            "id": "20",
+            "word": "Percent",
+            "definition": "A way of expressing a number as a fraction of 100."
+        },
+        {
+            "id": "21",
+            "word": "Fraction",
+            "definition": "A number that represents a part of a whole, using a numerator and a denominator."
+        },
+        {
+            "id": "22",
+            "word": "10 times",
+            "definition": "How much larger 1 000 is compared to 100."
+        },
+        {
+            "id": "23",
+            "word": "Greater",
+            "definition": "Describes a number larger in value compared to another."
+        },
+        {
+            "id": "24",
+            "word": "Decimal",
+            "definition": "A number expressed with a point separating the whole number and fractional part."
+        }
+    ]
+}

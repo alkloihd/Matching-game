@@ -1,0 +1,105 @@
+{
+    "title": "Grade 5 Math Measurement",
+    "questions": [
+        {
+            "id": "1",
+            "word": "Perimeter",
+            "definition": "The distance around a two-dimensional shape."
+        },
+        {
+            "id": "2",
+            "word": "Area",
+            "definition": "The amount of space a two-dimensional shape covers, measured in square units."
+        },
+        {
+            "id": "3",
+            "word": "Volume",
+            "definition": "The amount of space a three-dimensional object occupies, measured in cubic units."
+        },
+        {
+            "id": "4",
+            "word": "Rectangular Prism",
+            "definition": "A three-dimensional shape with six rectangular faces."
+        },
+        {
+            "id": "5",
+            "word": "Elapsed Time",
+            "definition": "The difference between a starting and ending time."
+        },
+        {
+            "id": "6",
+            "word": "Temperature",
+            "definition": "The measure of how hot or cold something is, often recorded in degrees Celsius."
+        },
+        {
+            "id": "7",
+            "word": "1 m²",
+            "definition": "The area of a square with sides that are 1 metre long."
+        },
+        {
+            "id": "8",
+            "word": "12 cm",
+            "definition": "The perimeter of a rectangle with sides of 3 cm and 3 cm."
+        },
+        {
+            "id": "9",
+            "word": "60 minutes",
+            "definition": "The equivalent of 1 hour in minutes."
+        },
+        {
+            "id": "10",
+            "word": "3 × 4",
+            "definition": "The formula to find the area of a rectangle with sides 3 m and 4 m."
+        },
+        {
+            "id": "11",
+            "word": "8 hours",
+            "definition": "The amount of time from 9:00 AM to 5:00 PM."
+        },
+        {
+            "id": "12",
+            "word": "8 cm²",
+            "definition": "The area of a rectangle with sides of 4 cm and 2 cm."
+        },
+        {
+            "id": "13",
+            "word": "5°C",
+            "definition": "The temperature change when water cools from 15°C to 10°C."
+        },
+        {
+            "id": "14",
+            "word": "Centimetre",
+            "definition": "A metric unit of length equal to one-hundredth of a metre."
+        },
+        {
+            "id": "15",
+            "word": "100 cm",
+            "definition": "The length equivalent to 1 metre."
+        },
+        {
+            "id": "16",
+            "word": "2 m³",
+            "definition": "The volume of a rectangular prism with dimensions 2 m × 1 m × 1 m."
+        },
+        {
+            "id": "17",
+            "word": "Triangle",
+            "definition": "A shape with three sides that has a specific formula for area: base × height ÷ 2."
+        },
+        {
+            "id": "18",
+            "word": "15 minutes",
+            "definition": "The elapsed time between 3:30 PM and 3:45 PM."
+        },
+        {
+            "id": "19",
+            "word": "Celsius",
+            "definition": "The scale commonly used to measure temperature in Canada."
+        },
+        {
+            "id": "20",
+            "word": "Square Unit",
+            "definition": "The unit of measurement for area."
+        }
+    ]
+}

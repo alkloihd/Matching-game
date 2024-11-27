@@ -1,0 +1,105 @@
+{
+    "title": "Grade 5 Math Patterning and Algebra",
+    "questions": [
+        {
+            "id": "1",
+            "word": "Pattern Rule",
+            "definition": "A description of how a pattern grows or shrinks."
+        },
+        {
+            "id": "2",
+            "word": "Growing Pattern",
+            "definition": "A sequence where each term increases based on a specific rule."
+        },
+        {
+            "id": "3",
+            "word": "Shrinking Pattern",
+            "definition": "A sequence where each term decreases based on a specific rule."
+        },
+        {
+            "id": "4",
+            "word": "Variable",
+            "definition": "A symbol, often a letter, used to represent an unknown value in an equation."
+        },
+        {
+            "id": "5",
+            "word": "Equation",
+            "definition": "A mathematical statement showing two expressions are equal, often containing variables."
+        },
+        {
+            "id": "6",
+            "word": "4n + 3",
+            "definition": "A pattern rule where the nth term is found by multiplying 4 by n and adding 3."
+        },
+        {
+            "id": "7",
+            "word": "Translation",
+            "definition": "A repeating sequence of shapes or numbers that shifts positions while maintaining the pattern."
+        },
+        {
+            "id": "8",
+            "word": "Table of Values",
+            "definition": "A chart used to organize input and output values to identify a relationship or pattern."
+        },
+        {
+            "id": "9",
+            "word": "Repeating Pattern",
+            "definition": "A sequence where the same set of terms repeats over and over."
+        },
+        {
+            "id": "10",
+            "word": "Input",
+            "definition": "The value substituted into a formula or equation to find the output."
+        },
+        {
+            "id": "11",
+            "word": "Output",
+            "definition": "The result after applying a rule or operation to the input."
+        },
+        {
+            "id": "12",
+            "word": "Balance",
+            "definition": "The concept of ensuring both sides of an equation have the same value."
+        },
+        {
+            "id": "13",
+            "word": "T-chart",
+            "definition": "A chart with two columns used to organize input-output relationships."
+        },
+        {
+            "id": "14",
+            "word": "Constant",
+            "definition": "A fixed value that does not change in a pattern or equation."
+        },
+        {
+            "id": "15",
+            "word": "3x + 2",
+            "definition": "A pattern rule where the nth term is three times the value of n plus 2."
+        },
+        {
+            "id": "16",
+            "word": "Sequence",
+            "definition": "An ordered list of numbers or terms that follow a specific rule."
+        },
+        {
+            "id": "17",
+            "word": "Unknown",
+            "definition": "A value in an equation that needs to be solved, often represented by a variable."
+        },
+        {
+            "id": "18",
+            "word": "Balance Scale",
+            "definition": "A tool used to visually represent the equality of two expressions."
+        },
+        {
+            "id": "19",
+            "word": "Linear Pattern",
+            "definition": "A pattern that increases or decreases by the same amount each step."
+        },
+        {
+            "id": "20",
+            "word": "Operation",
+            "definition": "A mathematical action such as addition, subtraction, multiplication, or division."
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Grade 5 Math Geometry and Spatial Sense",
+    "questions": [
+        {
+            "id": "1",
+            "word": "Right Angle",
+            "definition": "An angle that measures exactly 90 degrees."
+        },
+        {
+            "id": "2",
+            "word": "Equilateral",
+            "definition": "A triangle with all three sides of equal length."
+        },
+        {
+            "id": "3",
+            "word": "Acute",
+            "definition": "An angle that measures less than 90 degrees."
+        },
+        {
+            "id": "4",
+            "word": "Obtuse",
+            "definition": "An angle that measures more than 90 degrees but less than 180 degrees."
+        },
+        {
+            "id": "5",
+            "word": "Rectangle",
+            "definition": "A quadrilateral with four right angles and opposite sides of equal length."
+        },
+        {
+            "id": "6",
+            "word": "Pentagon",
+            "definition": "A polygon with five sides."
+        },
+        {
+            "id": "7",
+            "word": "Net",
+            "definition": "A two-dimensional pattern that can be folded into a three-dimensional figure."
+        },
+        {
+            "id": "8",
+            "word": "Prism",
+            "definition": "A three-dimensional figure with two parallel, congruent bases connected by rectangular faces."
+        },
+        {
+            "id": "9",
+            "word": "Pyramid",
+            "definition": "A three-dimensional figure with a polygonal base and triangular faces that meet at a single point."
+        },
+        {
+            "id": "10",
+            "word": "Translation",
+            "definition": "The movement of a shape from one position to another without rotating or flipping it."
+        },
+        {
+            "id": "11",
+            "word": "North",
+            "definition": "One of the four cardinal directions, opposite of south."
+        },
+        {
+            "id": "12",
+            "word": "East",
+            "definition": "One of the four cardinal directions, to the right of north on a compass."
+        },
+        {
+            "id": "13",
+            "word": "Reflection",
+            "definition": "A transformation that flips a shape over a line, creating a mirror image."
+        },
+        {
+            "id": "14",
+            "word": "Congruent",
+            "definition": "Two shapes that are identical in size and shape."
+        },
+        {
+            "id": "15",
+            "word": "Parallel",
+            "definition": "Lines in a plane that never intersect, no matter how far they extend."
+        },
+        {
+            "id": "16",
+            "word": "Perpendicular",
+            "definition": "Lines that intersect to form right angles."
+        },
+        {
+            "id": "17",
+            "word": "Compass Rose",
+            "definition": "A diagram on a map that shows directions such as north, south, east, and west."
+        },
+        {
+            "id": "18",
+            "word": "Rotation",
+            "definition": "A transformation that turns a shape around a fixed point."
+        }
+    ]
+}

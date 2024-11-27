@@ -18,7 +18,7 @@ const scoreSpan = document.getElementById('score');
 const definitionsArea = document.getElementById('definitions-area');
 const termsArea = document.getElementById('terms-area');
 const completionMessage = document.getElementById('completion-message');
-const finalScoreSpan = document.getElementById('final-score');
+const percentageScoreSpan = document.getElementById('percentage-score');
 const tryAgainButton = document.getElementById('try-again-button');
 const backHomeButton = document.getElementById('back-home-button');
 
@@ -234,21 +234,23 @@ function handleDrop(event) {
     }
 
     const targetId = tile.dataset.id;
+
     if (draggedId === targetId) {
         // Correct Match
-        tile.classList.add("correct");
-        tile.classList.add("matched");
+        score += 1;
+        updateScore();
+        // Remove the term from the terms area
         draggedElement.classList.add("correct");
         draggedElement.style.opacity = "0";
         setTimeout(() => {
             draggedElement.remove();
         }, 500); // Remove after fade-out
 
-        scorePoint(targetId);
-        totalMatches--;
-
-        // Transform the tile to show both term and definition
+        // Mark the definition as matched
+        tile.classList.add("correct", "matched");
         tile.innerHTML = `<strong>${draggedElement.textContent}:</strong> ${tile.querySelector('.definition-text').textContent}`;
+
+        totalMatches--;
 
         // Check for Game Completion
         if (totalMatches === 0) {
@@ -256,12 +258,35 @@ function handleDrop(event) {
         }
     } else {
         // Incorrect Match
-        tile.classList.add("incorrect");
-        draggedElement.classList.add("incorrect");
-        setTimeout(() => {
-            tile.classList.remove("incorrect");
-            draggedElement.classList.remove("incorrect");
-        }, 1000);
+        attempts[targetId]++;
+        if (attempts[targetId] >= 3) {
+            // Reveal the correct answer
+            tile.classList.add("incorrect", "matched");
+            // Find the correct term element
+            const correctTerm = document.querySelector(`.term-item[data-id='${targetId}']`);
+            if (correctTerm) {
+                tile.innerHTML = `<strong>${correctTerm.textContent}:</strong> ${tile.querySelector('.definition-text').textContent}`;
+                // Remove the correct term from terms area
+                correctTerm.classList.add("correct");
+                correctTerm.style.opacity = "0";
+                setTimeout(() => {
+                    correctTerm.remove();
+                }, 500);
+            }
+            totalMatches--;
+            // Check for Game Completion
+            if (totalMatches === 0) {
+                setTimeout(showCompletionScreen, 500);
+            }
+        } else {
+            // Provide visual feedback for incorrect match
+            tile.classList.add("incorrect");
+            draggedElement.classList.add("incorrect");
+            setTimeout(() => {
+                tile.classList.remove("incorrect");
+                draggedElement.classList.remove("incorrect");
+            }, 1000);
+        }
     }
 }
 
@@ -282,20 +307,6 @@ function dragStart(event) {
  */
 function dragEnd(event) {
     event.target.style.opacity = "1";
-}
-
-/**
- * Update the score based on the number of attempts.
- * @param {string} id - The question ID.
- */
-function scorePoint(id) {
-    attempts[id]++;
-    if (attempts[id] === 1) {
-        score += 1;
-    } else if (attempts[id] === 2) {
-        score += 0.5;
-    }
-    updateScore();
 }
 
 /**
@@ -337,21 +348,22 @@ function shuffleArray(array) {
 }
 
 /**
- * Show the completion screen with the final score and options.
+ * Show the completion screen with the final score and percentage.
  */
 function showCompletionScreen() {
     gameScreen.style.display = 'none';
     completionScreen.style.display = 'flex';
 
-    finalScoreSpan.textContent = score;
-
+    // Calculate percentage
     const maxScore = selectedQuestions.length;
-    const percentage = (score / maxScore) * 100;
+    const percentage = ((score / maxScore) * 100).toFixed(2);
+    percentageScoreSpan.textContent = percentage;
 
+    // Set completion message
     if (percentage >= 70) {
-        completionMessage.textContent = "Good job! You scored above 70%.";
+        completionMessage.textContent = "Good job!";
     } else {
-        completionMessage.textContent = "You scored below 70%. Try again!";
+        completionMessage.textContent = "Try again!";
     }
 }
 

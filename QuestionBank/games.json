@@ -51,6 +51,22 @@
         {
             "title": "Grade 5 Math Data Management and Probability",
             "file": "grade5mathdata.json"
+        },
+        {
+            "title": "Grade 6 Math Number Sense",
+            "file": "grade6mathnum.json"
+        },
+        {
+            "title": "Grade 6 Math Patterning and Algebra",
+            "file": "grade6mathpatterns.json"
+        },
+        {
+            "title": "Grade 6 Math Data Management and Probability",
+            "file": "grade6mathdata.json"
+        },
+        {
+            "title": "Grade 6 Math Spatial Sense",
+            "file": "grade6mathspatial.json"
         }
     ]
 }

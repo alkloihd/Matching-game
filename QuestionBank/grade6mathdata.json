@@ -1,0 +1,155 @@
+{
+    "title": "Grade 6 Math Data Management and Probability",
+    "questions": [
+        {
+            "id": "1",
+            "word": "Discrete Data",
+            "definition": "Data that can only take specific values, such as the number of students in a class."
+        },
+        {
+            "id": "2",
+            "word": "Continuous Data",
+            "definition": "Data that can take any value within a range, such as the temperature over a day."
+        },
+        {
+            "id": "3",
+            "word": "Primary Data",
+            "definition": "Data collected directly by the researcher through methods like surveys or experiments."
+        },
+        {
+            "id": "4",
+            "word": "Secondary Data",
+            "definition": "Data collected by someone else, often found in books, reports, or online sources."
+        },
+        {
+            "id": "5",
+            "word": "Bar Graph",
+            "definition": "A graph that uses rectangular bars to represent data, with the length of each bar proportional to its value."
+        },
+        {
+            "id": "6",
+            "word": "Line Graph",
+            "definition": "A graph that uses points connected by lines to show trends or changes over time."
+        },
+        {
+            "id": "7",
+            "word": "Circle Graph",
+            "definition": "A circular chart divided into sectors, where each sector represents a portion of the whole."
+        },
+        {
+            "id": "8",
+            "word": "Trend",
+            "definition": "A pattern or direction observed in data, such as an increase in sales over time."
+        },
+        {
+            "id": "9",
+            "word": "Prediction",
+            "definition": "An estimate of future outcomes based on trends observed in data."
+        },
+        {
+            "id": "10",
+            "word": "Range",
+            "definition": "The difference between the highest and lowest values in a data set."
+        },
+        {
+            "id": "11",
+            "word": "Mean",
+            "definition": "The average of a data set, found by dividing the sum of all values by the total number of values."
+        },
+        {
+            "id": "12",
+            "word": "Median",
+            "definition": "The middle value in a data set when the values are arranged in order."
+        },
+        {
+            "id": "13",
+            "word": "Mode",
+            "definition": "The value that appears most frequently in a data set."
+        },
+        {
+            "id": "14",
+            "word": "Effective Display",
+            "definition": "A way of presenting data that makes it easy to understand and interpret."
+        },
+        {
+            "id": "15",
+            "word": "Histogram",
+            "definition": "A type of bar graph where the bars represent the frequency of data within equal intervals."
+        },
+        {
+            "id": "16",
+            "word": "Probability",
+            "definition": "The likelihood of an event occurring, expressed as a fraction, decimal, or percentage."
+        },
+        {
+            "id": "17",
+            "word": "Theoretical Probability",
+            "definition": "The likelihood of an event occurring based on all possible outcomes."
+        },
+        {
+            "id": "18",
+            "word": "Experimental Probability",
+            "definition": "The likelihood of an event occurring based on the results of an actual experiment."
+        },
+        {
+            "id": "19",
+            "word": "Trial",
+            "definition": "One repetition of a probability experiment, such as flipping a coin."
+        },
+        {
+            "id": "20",
+            "word": "Outcome",
+            "definition": "A possible result of a probability experiment, such as rolling a 3 on a die."
+        },
+        {
+            "id": "21",
+            "word": "Sample Space",
+            "definition": "The set of all possible outcomes in a probability experiment."
+        },
+        {
+            "id": "22",
+            "word": "Certain",
+            "definition": "An event that will definitely happen; probability is 1 or 100%."
+        },
+        {
+            "id": "23",
+            "word": "Impossible",
+            "definition": "An event that cannot happen; probability is 0 or 0%."
+        },
+        {
+            "id": "24",
+            "word": "Likely",
+            "definition": "An event that has a high chance of occurring but is not guaranteed."
+        },
+        {
+            "id": "25",
+            "word": "Unlikely",
+            "definition": "An event that has a low chance of occurring but is not impossible."
+        },
+        {
+            "id": "26",
+            "word": "Fair",
+            "definition": "A term used to describe a probability experiment where all outcomes are equally likely."
+        },
+        {
+            "id": "27",
+            "word": "Biased",
+            "definition": "A term used to describe a probability experiment where certain outcomes are more likely than others."
+        },
+        {
+            "id": "28",
+            "word": "Number of Trials",
+            "definition": "The total number of repetitions in a probability experiment, affecting experimental probability."
+        },
+        {
+            "id": "29",
+            "word": "Random",
+            "definition": "A selection process where all outcomes have an equal chance of occurring."
+        },
+        {
+            "id": "30",
+            "word": "Tree Diagram",
+            "definition": "A diagram used to show all possible outcomes of a probability experiment."
+        }
+    ]
+}

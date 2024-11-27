@@ -1,0 +1,155 @@
+{
+    "title": "Grade 6 Math Number Sense",
+    "questions": [
+        {
+            "id": "1",
+            "word": "1 000 000",
+            "definition": "The largest whole number students are expected to read and represent."
+        },
+        {
+            "id": "2",
+            "word": "245 678",
+            "definition": "The number with 2 in the hundred-thousands place, 4 in the ten-thousands place, and so on."
+        },
+        {
+            "id": "3",
+            "word": "-12",
+            "definition": "An integer 12 units below zero on a vertical number line."
+        },
+        {
+            "id": "4",
+            "word": "15",
+            "definition": "An integer 15 units above zero on a horizontal number line."
+        },
+        {
+            "id": "5",
+            "word": "0.5",
+            "definition": "The decimal number greater than 0.25 but less than 0.75."
+        },
+        {
+            "id": "6",
+            "word": "1/3",
+            "definition": "The fraction equivalent to 0.333 when expressed as a decimal."
+        },
+        {
+            "id": "7",
+            "word": "9.457",
+            "definition": "The number rounded to 9.46 when rounded to the nearest hundredth."
+        },
+        {
+            "id": "8",
+            "word": "12.4",
+            "definition": "The number rounded to 12 when rounded to the nearest whole number."
+        },
+        {
+            "id": "9",
+            "word": "3/4",
+            "definition": "The fraction equivalent to 9/12 when reduced to its simplest form."
+        },
+        {
+            "id": "10",
+            "word": "8/5",
+            "definition": "The improper fraction equivalent to 1 3/5 when expressed as a mixed number."
+        },
+        {
+            "id": "11",
+            "word": "2.34",
+            "definition": "The result of adding 1.23 and 1.11."
+        },
+        {
+            "id": "12",
+            "word": "7.892",
+            "definition": "The result of subtracting 2.34 from 10.232."
+        },
+        {
+            "id": "13",
+            "word": "3/8",
+            "definition": "The sum of 1/8 and 1/4."
+        },
+        {
+            "id": "14",
+            "word": "5/12",
+            "definition": "The difference between 3/4 and 1/3."
+        },
+        {
+            "id": "15",
+            "word": "20%",
+            "definition": "The percentage equivalent of 1/5."
+        },
+        {
+            "id": "16",
+            "word": "0.25",
+            "definition": "The decimal equivalent of 25%."
+        },
+        {
+            "id": "17",
+            "word": "Associative Property",
+            "definition": "The property of addition and multiplication that states grouping does not change the result."
+        },
+        {
+            "id": "18",
+            "word": "Commutative Property",
+            "definition": "The property of addition and multiplication that states order does not change the result."
+        },
+        {
+            "id": "19",
+            "word": "5.25",
+            "definition": "The product of 3.5 and 1.5."
+        },
+        {
+            "id": "20",
+            "word": "4.375",
+            "definition": "The quotient when 35 is divided by 8."
+        },
+        {
+            "id": "21",
+            "word": "-3",
+            "definition": "The result of subtracting 5 from 2."
+        },
+        {
+            "id": "22",
+            "word": "8",
+            "definition": "The result of multiplying -2 by -4."
+        },
+        {
+            "id": "23",
+            "word": "2 1/2",
+            "definition": "The result of multiplying 5/2 by 1."
+        },
+        {
+            "id": "24",
+            "word": "1 5/6",
+            "definition": "The result of dividing 11/6 by 1."
+        },
+        {
+            "id": "25",
+            "word": "5/8",
+            "definition": "The sum of 1/8 and 1/2."
+        },
+        {
+            "id": "26",
+            "word": "1/3",
+            "definition": "The result of dividing 1/6 by 2."
+        },
+        {
+            "id": "27",
+            "word": "3 1/3",
+            "definition": "The result of adding 2 1/3 and 1."
+        },
+        {
+            "id": "28",
+            "word": "2 1/4",
+            "definition": "The result of subtracting 3/4 from 3."
+        },
+        {
+            "id": "29",
+            "word": "75%",
+            "definition": "The percentage equivalent of 3/4."
+        },
+        {
+            "id": "30",
+            "word": "0.8",
+            "definition": "The decimal equivalent of 4/5."
+        }
+    ]
+}
